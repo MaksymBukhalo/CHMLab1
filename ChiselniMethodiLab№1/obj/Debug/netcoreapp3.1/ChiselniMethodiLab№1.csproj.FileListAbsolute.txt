@@ -1,0 +1,13 @@
+C:\Users\Maksim Bukhalo\source\repos\ChiselniMethodiLab№1\ChiselniMethodiLab№1\bin\Debug\netcoreapp3.1\ChiselniMethodiLab№1.exe
+C:\Users\Maksim Bukhalo\source\repos\ChiselniMethodiLab№1\ChiselniMethodiLab№1\bin\Debug\netcoreapp3.1\ChiselniMethodiLab№1.deps.json
+C:\Users\Maksim Bukhalo\source\repos\ChiselniMethodiLab№1\ChiselniMethodiLab№1\bin\Debug\netcoreapp3.1\ChiselniMethodiLab№1.runtimeconfig.json
+C:\Users\Maksim Bukhalo\source\repos\ChiselniMethodiLab№1\ChiselniMethodiLab№1\bin\Debug\netcoreapp3.1\ChiselniMethodiLab№1.runtimeconfig.dev.json
+C:\Users\Maksim Bukhalo\source\repos\ChiselniMethodiLab№1\ChiselniMethodiLab№1\bin\Debug\netcoreapp3.1\ChiselniMethodiLab№1.dll
+C:\Users\Maksim Bukhalo\source\repos\ChiselniMethodiLab№1\ChiselniMethodiLab№1\bin\Debug\netcoreapp3.1\ChiselniMethodiLab№1.pdb
+C:\Users\Maksim Bukhalo\source\repos\ChiselniMethodiLab№1\ChiselniMethodiLab№1\obj\Debug\netcoreapp3.1\ChiselniMethodiLab№1.csprojAssemblyReference.cache
+C:\Users\Maksim Bukhalo\source\repos\ChiselniMethodiLab№1\ChiselniMethodiLab№1\obj\Debug\netcoreapp3.1\ChiselniMethodiLab№1.AssemblyInfoInputs.cache
+C:\Users\Maksim Bukhalo\source\repos\ChiselniMethodiLab№1\ChiselniMethodiLab№1\obj\Debug\netcoreapp3.1\ChiselniMethodiLab№1.AssemblyInfo.cs
+C:\Users\Maksim Bukhalo\source\repos\ChiselniMethodiLab№1\ChiselniMethodiLab№1\obj\Debug\netcoreapp3.1\ChiselniMethodiLab№1.csproj.CoreCompileInputs.cache
+C:\Users\Maksim Bukhalo\source\repos\ChiselniMethodiLab№1\ChiselniMethodiLab№1\obj\Debug\netcoreapp3.1\ChiselniMethodiLab№1.dll
+C:\Users\Maksim Bukhalo\source\repos\ChiselniMethodiLab№1\ChiselniMethodiLab№1\obj\Debug\netcoreapp3.1\ChiselniMethodiLab№1.pdb
+C:\Users\Maksim Bukhalo\source\repos\ChiselniMethodiLab№1\ChiselniMethodiLab№1\obj\Debug\netcoreapp3.1\ChiselniMethodiLab№1.genruntimeconfig.cache
